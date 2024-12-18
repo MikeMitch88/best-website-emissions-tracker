@@ -8,7 +8,7 @@ atmosphere. These activities have led to global warming, rising sea levels, and 
 weather conditions. In this context, it is essential to raise awareness and encourage 
 individual contributions toward mitigating climate change.
 
-![Climate](https://github.com/user-attachments/assets/6c8f582f-1bf5-4dad-a523-04bdb1e559cf)
+![image](https://github.com/user-attachments/assets/a790096b-3d63-4765-9853-66bfd32748c4)
 
 The **_Green Shift_ - Carbon Footprint Tracker with Climate Change Insights** project aims 
 to empower individuals to take actionable steps by providing them with a platform to 
@@ -25,46 +25,20 @@ sustainable future.
 
 # 🌴 Green Shift (Home)
 
-![image](https://github.com/user-attachments/assets/a40de7c9-070a-451d-8174-66f23d511d86)
-![image](https://github.com/user-attachments/assets/003e14aa-77b3-460f-881a-5e6aad5a6817)
-![image](https://github.com/user-attachments/assets/32c96c0d-f7fd-40aa-a98c-be60344260e9)
-![image](https://github.com/user-attachments/assets/da324c30-63ee-41af-8348-f3bc23812479)
+![image](https://github.com/user-attachments/assets/997e8160-ecf5-4186-9d9c-9383aea17c86)
+![image](https://github.com/user-attachments/assets/b0359dd8-4fe5-4821-a0d6-8c2160526b6e)
+![image](https://github.com/user-attachments/assets/0e289c06-8314-4b7c-8127-b549bc8f1a75)
+![image](https://github.com/user-attachments/assets/bf816f0a-3597-4975-b4db-ff0f22828470)
 
 <br>
 
 # 🏭 Carbon Emissions Calculator
 
-![image](https://github.com/user-attachments/assets/7aea6a33-1c3e-4954-a23f-e11f66a7b10c)
-![image](https://github.com/user-attachments/assets/0910797d-3f88-4ac2-b43e-c4bc9b0c696d)
-![image](https://github.com/user-attachments/assets/55b608b5-a2c7-490e-a3dd-9cc8dd13b8ef)
-
-<br>
-
-# 🔬 Personalized Dashboard
-
-![image](https://github.com/user-attachments/assets/c8f60368-35f4-48bb-8382-edbbcceb4252)
-![image](https://github.com/user-attachments/assets/bb0756e4-7bc4-4525-b646-b4ff22f45ce9)
-![image](https://github.com/user-attachments/assets/eab344ca-3c90-44c2-8bcd-67800a098dc8)
-![image](https://github.com/user-attachments/assets/7f1cb964-6955-4a37-8e00-713ab80abce0)
-
-
-<br>
-
-# 🧊 Global Carbon Insights
-
-![image](https://github.com/user-attachments/assets/cd856e0e-8dd8-46f1-893e-cdbcc802013d)
-![image](https://github.com/user-attachments/assets/f4b6c701-1d24-40fb-8b04-6092b6a688d6)
-![image](https://github.com/user-attachments/assets/f2c1423c-46ea-4d04-95ad-6c5a5eefc1a1)
-![image](https://github.com/user-attachments/assets/6cd65fe9-72ae-47e2-ba80-defb442f492e)
-![image](https://github.com/user-attachments/assets/b425e80c-00d7-44c8-8b08-fdc0f08f9751)
-
-<br>
-
-# 🌱 Suistainable Practices
-
-![image](https://github.com/user-attachments/assets/6ca4d176-69bf-4799-8b6a-d45ce0503e4c)
-![image](https://github.com/user-attachments/assets/9c92fdac-4f5d-4352-a7ef-89cb8356f9c0)
-![image](https://github.com/user-attachments/assets/34928d3d-8718-42f0-be90-00ddb8b0380b)
+![image](https://github.com/user-attachments/assets/3027ff7e-0f14-45bc-b668-e8db118be80a)
+![image](https://github.com/user-attachments/assets/93efbf5b-a093-41f7-b3a8-994e1da7a7a1)
+![image](https://github.com/user-attachments/assets/9e656213-0b05-41b7-ae5b-e131f3aad950)
+![image](https://github.com/user-attachments/assets/dc0a9120-5833-4167-a1ec-9adddd97310c)
+![image](https://github.com/user-attachments/assets/2f190ed6-1ec1-420d-a663-363fb564c653)
 
 <br>
 

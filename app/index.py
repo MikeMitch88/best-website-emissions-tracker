@@ -8,7 +8,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-st.logo("../Images/menu.png")
+st.logo(link="../Images/menu.png")
 
 pages = {
     "App Navigations": [

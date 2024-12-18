@@ -2,7 +2,7 @@ from PIL import Image
 import streamlit as st
 import Ddashboard as dashboard
 
-logo = Image.open("../Images/global-warming.png")  # Replace with your logo file path if available
+#logo = Image.open("../Images/global-warming.png")  # Replace with your logo file path if available
 
 # Logo and Title Section
 st.image(logo, width=175)  # Adjust the width as per your design

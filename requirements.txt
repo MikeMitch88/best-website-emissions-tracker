@@ -7,5 +7,5 @@ statsmodels
 plotly
 pydeck
 requests
-reportlab==5.2.0
+reportlab
 streamlit-extras==0.5.0

@@ -5,12 +5,12 @@ import Ddashboard as dashboard
 #logo = Image.open("../Images/global-warming.png")  # Replace with your logo file path if available
 
 # Logo and Title Section
-st.image(logo, width=175)  # Adjust the width as per your design
+#st.image(logo, width=175)  # Adjust the width as per your design
 st.title("🌍 GreenShift - Carbon Footprint Tracker")
 st.subheader("Empowering Sustainable Choices 🌱")
 st.markdown("**Take the first step towards understanding and reducing your carbon footprint.**")
 
-st.image("../Images/Climate.jpg")
+#st.image("../Images/Climate.jpg")
 
 # Separator
 st.markdown("---")

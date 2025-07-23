@@ -10,6 +10,7 @@ st.title("🌍 GreenShift - Carbon Footprint Tracker")
 st.subheader("Empowering Sustainable Choices 🌱")
 st.markdown("**Take the first step towards understanding and reducing your carbon footprint.**")
 
+
 st.image("Images/Climate.jpg")
 
 # Separator
@@ -129,6 +130,6 @@ st.markdown("""
         Informing and inspiring change for a sustainable future. 
         Together, we can make a difference. 🌏
     </p>
-    <p>© 2024 | Created with ❤️ and responsibility.</p>
+    <p>© 2025 | Created with ❤️ and responsibility.</p>
 </div>
 """, unsafe_allow_html=True)

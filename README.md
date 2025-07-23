@@ -84,8 +84,8 @@ streamlit run index.py
 <br>
 
 ### Designed and Developed by:
-> **Vivek Kumar Singh**
-> [LinkedIn](https://www.linkedin.com/in/vivek-singh-858941201/)
+> **Michael Randa** | **Sabulkong Valentine** | **Nyamai Roda** | **Rose Onyango**
+> [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/michael-randa)
 
 
 

@@ -129,6 +129,6 @@ st.markdown("""
         Informing and inspiring change for a sustainable future. 
         Together, we can make a difference. 🌏
     </p>
-    <p>© 2024 | Created with ❤️ and responsibility.</p>
+    <p>© 2025 | Created with ❤️ and responsibility.</p>
 </div>
 """, unsafe_allow_html=True)

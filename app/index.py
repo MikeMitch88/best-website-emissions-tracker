@@ -10,6 +10,18 @@ st.set_page_config(
 
 st.logo("Images/menu.png")
 
+# --- Buy Me A Coffee Button (Global, top right) ---
+st.markdown(
+    """
+    <div style="text-align:right; margin-top:-30px; margin-bottom:10px;">
+        <a href="https://www.buymeacoffee.com/michaelranda" target="_blank">
+            <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Us Coffee" style="height: 60px;" />
+        </a>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+
 pages = {
     "App Navigations": [
         st.Page("home.py", title="Home", icon='🏠' ,default=True),
@@ -25,3 +37,4 @@ pages = {
 
 pg = st.navigation(pages)
 pg.run()
+

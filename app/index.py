@@ -8,7 +8,11 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-st.logo("Images/menu.png")
+# Handle missing logo file gracefully
+try:
+    st.logo("Images/menu.png")
+except:
+    pass  # Skip logo if file doesn't exist
 
 # --- Buy Me A Coffee Button (Global, top right) ---
 st.markdown(

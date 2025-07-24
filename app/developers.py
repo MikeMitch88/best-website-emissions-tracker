@@ -3,11 +3,22 @@ import streamlit as st
 
 @st.cache_data
 def circular_image(image_path, width=140):
-    # Display the image using Streamlit
-    st.image(image_path, width=width, use_container_width=False)
+    # Display the image using Streamlit with error handling
+    try:
+        st.image(image_path, width=width, use_container_width=False)
+    except:
+        st.markdown("👤")  # Fallback emoji
 
-st.logo("Images/team.png")
-st.image("Images/team.png",width=145)
+# Handle logo with error handling
+try:
+    st.logo("Images/team.png")
+except:
+    pass
+
+try:
+    st.image("Images/team.png",width=145)
+except:
+    st.markdown("👥 **Team Photo**")
 st.title("Meet the Team Behind the Suite")
 st.write("""
     This project was developed by a team of dedicated students from Power Learn Project, with a passion for creating tools that improve academic experiences.

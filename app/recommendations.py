@@ -83,12 +83,13 @@ if 'user_data' in st.session_state:
     # Climate Trends (CO2 Levels)
     with co2_col:
         st.subheader("🌍 Climate Trends (CO2 Levels)")
+        
+        # Simple linear trend forecast (eliminates ARIMA warnings)
         co2_levels = [400, 420, 440, 460, 480]
-        arima_model = ARIMA(co2_levels, order=(1, 1, 1))
-        arima_model_fit = arima_model.fit()
-        co2_forecast = arima_model_fit.forecast(steps=5)
+        trend = np.polyfit(range(len(co2_levels)), co2_levels, 1)
+        co2_forecast = [trend[0] * (len(co2_levels) + i) + trend[1] for i in range(1, 6)]
 
-        forecast_data = pd.DataFrame({"Year": ["Year " + str(2019 + i) for i in range(1, 6)], 
+        forecast_data = pd.DataFrame({"Year": ["Year " + str(2020 + i) for i in range(1, 6)], 
                                       "CO2 Levels (ppm)": co2_forecast})
         st.line_chart(forecast_data.set_index("Year"), height=300)
 

@@ -2,16 +2,22 @@ from PIL import Image
 import streamlit as st
 import Ddashboard as dashboard
 
-logo = Image.open("Images/global-warming.png")  # Replace with your logo file path if available
-
-# Logo and Title Section
-st.image(logo, width=175)  # Adjust the width as per your design
+# Logo and Title Section - handle missing image gracefully
+try:
+    logo = Image.open("Images/global-warming.png")
+    st.image(logo, width=175)
+except:
+    st.markdown("🌍")  # Use emoji as fallback
 st.title("🌍 GreenShift - Carbon Footprint Tracker")
 st.subheader("Empowering Sustainable Choices 🌱")
 st.markdown("**Take the first step towards understanding and reducing your carbon footprint.**")
 
 
-st.image("Images/Climate.jpg")
+# Climate image with error handling
+try:
+    st.image("Images/Climate.jpg")
+except:
+    st.markdown("🌡️ **Climate Change Visualization**")  # Fallback text
 
 # Separator
 st.markdown("---")
